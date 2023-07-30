@@ -1,4 +1,4 @@
-Yun et al. Nature Communications 2023_Computational-hyperspectral-microflow-cytometry
+Computational-hyperspectral-microflow-cytometry
 Spectral reconstruction &amp; Umixing matlab code 
 
 
