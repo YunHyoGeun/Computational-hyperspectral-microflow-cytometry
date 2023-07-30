@@ -1,4 +1,4 @@
-![image](https://github.com/YunHyoGeun/Computational-hyperspectral-microflow-cytometry/assets/74758420/6c868d38-5b3f-455e-bf58-e3f5d69cb58c)# Yun et al. Nature Communications 2023_Computational-hyperspectral-microflow-cytometry
+Yun et al. Nature Communications 2023_Computational-hyperspectral-microflow-cytometry
 Spectral reconstruction &amp; Umixing matlab code 
 
 
