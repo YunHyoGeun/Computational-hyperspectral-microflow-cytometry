@@ -6,7 +6,7 @@ Every code is run on "MATLAB R2022b"
 
 01. Reconstruction
 	- The main code is "Cell_profile_processing_ver10.2_edge4.2.mlx"
-		runnnig with imges and other xls. mlx. files, containing in the folder
+		runnnig with imges and other xls. mlx. files, contained in the folder
 	- After running, the final result is "Data2", copy it to 02.Data2.xls in 02.Unmixing folder
 		(row,column)=(2:end, 2:end)
 
